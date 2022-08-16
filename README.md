@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>👨‍💻 Front End Engineer </h3>
+<h3>👨‍💻 Full Stack Engineer </h3>
 
 - 🔭 I’m currently working on Eden
 
-- 🌱 My Tools are React, Nextjs, Solidity, Typescript**
+- 🌱 My Tools are React, Nextjs, Solidity, Typescript, ethersJS, hardhat**
 
 - 👨‍💻 You can find my stuff at [github](https://github.com/geniusyinka?tab=repositories)
 
