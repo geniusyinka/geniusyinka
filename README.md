@@ -17,25 +17,29 @@ Here are some ideas to get you started:
 
 <h3>👨‍💻 Full Stack Engineer </h3>
 
-- 🔭 I’m currently working on Eden
-
-- 🌱 My Tools are React, Nextjs, Solidity, Typescript, ethersJS, hardhat**
-
+- 🔭 I’m currently working on Eden. Also quite curious on ZKEVM's, reading a ton about The Merge, and all things Ethereum. 
 - 👨‍💻 You can find my stuff at [github](https://github.com/geniusyinka?tab=repositories)
-
-- 👯 I’m open to work and collaborations
-
 - 📫 shoot me an email: **olayinka.oshidipe@gmail.com**
 
+## 🌱 tools & tech i'm excited and passionate about: 
 
+### Blockchain Development (EVM)
 
-### 🛠 &nbsp;Languages and Tools
+- Solidity
+- Ethers.js
+- Hardhat
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
-<br>
-<br>
+### Languages and Frameworks
+
+- React
+- Next.js
+- Typescript
+- TailwindCSS
+
+<br />
+
+<br /> 
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -47,11 +51,14 @@ Here are some ideas to get you started:
 </p>
 
 
-#  🏻&nbsp; reach out: 
-
-<p>
-&nbsp;&nbsp;
-<a href="https://twitter.com/geniusyinka"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
-
 &nbsp;&nbsp;
 </p>  
+
+
+
+[twitter]: https://twitter.com/geniusyinka 
+
+## Connect with me
+
+[<img align="left" alt="DCBuilder | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
