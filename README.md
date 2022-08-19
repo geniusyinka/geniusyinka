@@ -54,11 +54,11 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 </p>  
 
-
+stalk me:
 
 [twitter]: https://twitter.com/geniusyinka 
 
-## Connect with me
 
-[<img align="left" alt="DCBuilder | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[<img align="left" alt="geniusyinka | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
