@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3>👨‍💻  Developer Relations and Full Stack Engineer </h3>
 
-- 🔭 I’m currently working on Eden. Also quite curious on ZKEVM's, reading a ton about The Merge, and all things Ethereum. 
+- 🔭 I’m currently working on Developer Education/Experience. Also quite curious on ZKEVM's, reading a ton about AI, as well as all things Ethereum! 
 - 👨‍💻 You can find my stuff at [github](https://github.com/geniusyinka?tab=repositories)
 - 📫 shoot me an email: **olayinka.oshidipe@gmail.com**
 
@@ -36,6 +36,13 @@ Here are some ideas to get you started:
 - Typescript
 - TailwindCSS
 - Storybook
+
+### Tech
+ - AI
+ - Zero Knowledge
+ - Zero Knowledge ML
+ - Account Abstraction
+
 
 <br />
 
