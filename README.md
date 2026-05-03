@@ -1,6 +1,5 @@
 ### hi, I'm yinka 👋
 
-<!--
 
 <h3>👨‍💻  Developer Relations, Product Engineer </h3>
 
